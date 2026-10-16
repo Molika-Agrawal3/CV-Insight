@@ -43,7 +43,7 @@ Follow these steps to set up the project locally.
 
 1.  **Clone the repository**
     ```bash
-
+    git clone [https://github.com/Molika-Agrawal3/CV-Insight](https://github.com/Molika-Agrawal3/CV-Insight)
     cd cvinsight
     ```
 
